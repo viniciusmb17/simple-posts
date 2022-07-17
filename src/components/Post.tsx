@@ -1,6 +1,6 @@
 import { format, formatDistanceToNow } from 'date-fns'
 import ptBR from 'date-fns/locale/pt-BR'
-import { ButtonHTMLAttributes, ChangeEvent, FormEvent, InvalidEvent, useState } from 'react'
+import { ChangeEvent, FormEvent, InvalidEvent, useState } from 'react'
 
 import { Avatar } from './Avatar'
 import { Comment } from './Comment'
