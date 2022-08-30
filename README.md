@@ -1,5 +1,4 @@
-# 01-fundamentos-reactjs
-# Coffee Delivery (demo)
+# Posts (demo)
 
 This is a project to simulate posts and comments.
 - Just the layout and some features.
