@@ -1,11 +1,11 @@
-# Posts (demo)
+# Simple Posts (demo)
 
 This is a project to simulate posts and comments.
 - Just the layout and some features.
 
 ## Demo
 
-https://01-fundamentos-reactjs-viniciusmb17.vercel.app/
+https://simple-posts.vercel.app/
 
 
 ## Authors
